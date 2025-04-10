@@ -3,6 +3,6 @@ author: blah
 description: blah
 remote_theme: jekyll/minima
 minima:
-  skin: dark
+  skin: solarized-dark
 plugins:
   - jekyll-remote-theme
