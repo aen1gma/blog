@@ -1,5 +1,5 @@
 ---
 layout: home
-title: Welcome to my blog
+title: About
 ---
 Here is some content. Plus a bit more
