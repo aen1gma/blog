@@ -6,3 +6,5 @@ minima:
   skin: solarized-dark
 plugins:
   - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
