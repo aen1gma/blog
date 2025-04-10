@@ -1,6 +1,4 @@
-theme: minima
-minima:
-  skin: dark
+theme: cayman
 title: blah
 author: blah
 description: blah
