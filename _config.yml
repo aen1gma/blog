@@ -1,7 +1,6 @@
 title: blah
 author: blah
 description: blah
-theme: minima
-
+remote_theme: jekyll/minima
 minima:
   skin: dark
