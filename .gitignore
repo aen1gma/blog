@@ -39,7 +39,5 @@ Thumbs.db
 # Jekyll #
 ######################
 _site/
-Gemfile
-Gemfile.lock
 .sass-cache/
 *.gem
