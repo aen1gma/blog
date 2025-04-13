@@ -1,4 +1,4 @@
-title: Cloning the Goose
+title: cloningthegoose.com
 tagline: Supercharging personal productivity with AI
 # url: addwhenready
 author: Aidan Boyd
@@ -7,11 +7,14 @@ social:
   name: Aidan Boyd
   links:
     - https://www.linkedin.com/in/aidanboyd/
-remote_theme: jekyll/minima
-minima:
-  skin: solarized-dark
+social-network-links:
+  linkedin: "aidanboyd"
+remote_theme: daattali/beautiful-jekyll@6.0.1
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
+navbar-links:
+  Blog: "/"
+  About: "about"
