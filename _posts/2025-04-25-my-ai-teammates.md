@@ -1,9 +1,13 @@
 ---
 layout: post
-title: How I built a GPT that understands my business
-subtitle: And can do things that I simply can't
-date: 2025-04-16
+title: My AI teammates
+subtitle: GPT's that genuinely understand my business
+date: 2025-04-25
 ---
+Going back a couple of years, once I started to understand what LLM's were capable of, I wondered what would be possible if I could customise the GPT to understand a specific context (e.g. my business). At the time, this was only possible with complex custom setups. But that changed when Open AI released the ability to create Custom GPT's in ChatGPT. Once this capability unlocked, I already knew the use case I wanted to try first. And the results were a genuine game-changer.
+
+## Marketing without marketing skills
+
 I'm completely clueless when it comes to sales and marketing. If someone tested my sales skills, here's how it would go...
 
 > Me: Do you want to buy this pen?
@@ -12,24 +16,24 @@ I'm completely clueless when it comes to sales and marketing. If someone tested 
 >
 > Me: Ok, fine
 
-So when I say that AI has been a game-changer for me, it's the marketing use case that first blew my mind. 
+My business, [Freely](https://www.learnfreely.app/), needed an email lead nurture sequence. Between my wife and I, we knew the key points we wanted to convey and how we wanted customers to feel when they read the emails. But bringing this to life as a sequence of emails, each with a catchy title, value proposition and call to action... wow, what a challenge. 
 
-## Marketing without marketing skills
-
-Freely needed an email lead nurture sequence. Between my wife and I, we knew the key points we wanted to convey and how we wanted customers to feel when they read the emails. But bringing this to life as a sequence of emails, each with a catchy title, value proposition and call to action... wow, what a challenge. Without the custom GPT that I built specifically to help us with this challenge, it would have taken months to personally upskill enough to produce the result that we managed to achieve. Realistically, though, it just wouldn't have happened. And, the best part, we can now take the result, and all of our learning, and feed it back into the GPT so that it give us an even better result quicker next time.
+Without the Custom GPT that I built specifically to help us with this challenge, it would have taken months to personally upskill enough to produce the result that we achieved.
 
 ## Creating a Custom GPT
 
-I use Chat GPT, which has the concept of a [Custom GPT](https://help.openai.com/en/articles/8554397-creating-a-gpt). But, if you're using a different platform, it might be called something different like [Projects](https://support.anthropic.com/en/articles/9517075-what-are-projects), if you're using Claude. The first challenge was giving it enough context to deeply understand my business. I didn't want generic advice, I wanted the AI to understand who we are, our values, what we're trying to achieve, and what's important to our customers. 
+I use Chat GPT, which has the concept of a [Custom GPT](https://help.openai.com/en/articles/8554397-creating-a-gpt). But, if you're using a different platform, it might be called something different like [Projects](https://support.anthropic.com/en/articles/9517075-what-are-projects), if you're using Claude. 
+
+The first challenge was giving it enough context to deeply understand my business. I didn't want generic advice, I wanted the AI to understand who we are, our values, what we're trying to achieve, and what's important to our customers. 
 
 ### Creating the knowledge files
 
-I took a concept I learned about on [AI Explored Podcast](https://www.socialmediaexaminer.com/ai-explored-podcast/) and tailored it a bit to my needs. With the help of Chat GPT itself, I created the following files...
+I took a concept I learned about on the [AI Explored Podcast](https://www.socialmediaexaminer.com/ai-explored-podcast/) and tailored it to my needs. With the help of ChatGPT itself, I created the following files...
 
-- **The Business** - Outlines the company’s purpose, mission, vision, target market, products, and strategic goals. Establishes the "why" behind Freely and articulates what makes the Freely Homeschool Planner unique in the market. 
-- **Customer Personas** - Provides detailed, emotional, and behavioral insights into core customer personas.
+- **The Business** - Outlines the company’s purpose, mission, vision, target market, products, and strategic goals. Establishes the "why" behind Freely and articulates what makes Freely Homeschool Planner unique in the market. 
+- **Customer Personas** - Provides detailed, emotional, and behavioral insights into core customer personas. This is explained in more detail in [this post](#)
 - **Marketing Plan** - Outlines the target audience, emotional drivers, pain points, and messaging strategy for Freely, with detailed plans for content distribution across platforms. It also addresses common objections and risks in the sales funnel.
-- **Content Guidelines** - A comprehensive guide for creating content using the brands voice. Includes a repeatable storytelling framework, tone guidelines, channel-specific adaptations, and strategies to nurture audience connection and drive engagement.
+- **Content Guidelines** - A comprehensive guide for creating content using the brand's voice. Includes a repeatable storytelling framework, tone guidelines, channel-specific adaptations, and strategies to nurture audience connection and drive engagement.
 - **Product Features** - Outlines the capabilities and benefits of Freely Homeschool Planner in detail.
 - **Content Examples** - Real examples of high-performing blog content.
 
