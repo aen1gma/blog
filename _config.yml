@@ -1,7 +1,7 @@
 title: cloningthegoose.com
 tagline: Supercharging personal productivity with AI
 baseurl: "/blog"
-url: "https://yourusername.github.io"
+url: "https://cloningthegoose.com"
 author: Aidan Boyd
 description: A blog about supercharging personal productivity with AI tools and workflows
 social:
@@ -10,6 +10,7 @@ social:
     - https://www.linkedin.com/in/aidanboyd/
 social-network-links:
   linkedin: "aidanboyd"
+  email: "aidanjboyd@gmail.com"
 remote_theme: daattali/beautiful-jekyll@6.0.1
 plugins:
   - jekyll-remote-theme
@@ -19,3 +20,5 @@ plugins:
 navbar-links:
   Blog: "/"
   About: "about"
+google_analytics: G-TXC9MBBSJS
+permalink: /:title/
