@@ -1,10 +1,11 @@
 ---
 layout: post
 title: My AI teammates
-subtitle: GPT's that genuinely understand my business
+subtitle: GPTs that genuinely understand my business
 date: 2025-04-25
+description: How I created a Custom GPT that understands my business and helped me write a complete lead nurture sequence—without marketing experience.
 ---
-Going back a couple of years, once I started to understand what LLM's were capable of, I wondered what would be possible if I could customise the GPT to understand a specific context (e.g. my business). At the time, this was only possible with complex custom setups. But that changed when Open AI released the ability to create Custom GPT's in ChatGPT. Once this capability unlocked, I already knew the use case I wanted to try first. And the results were a genuine game-changer.
+When I first started to grasp what LLMs could actually do, I wondered what would be possible if I could customise the GPT to understand a specific context (e.g. my business). At the time, this was only possible with complex custom setups. But that changed when Open AI released the ability to create **Custom GPTs** in ChatGPT. Once this capability unlocked, I already knew the use case I wanted to try first. And the results were a genuine **game-changer**.
 
 ## Marketing without marketing skills
 
@@ -31,7 +32,7 @@ The first challenge was giving it enough context to deeply understand my busines
 I took a concept I learned about on the [AI Explored Podcast](https://www.socialmediaexaminer.com/ai-explored-podcast/) and tailored it to my needs. With the help of ChatGPT itself, I created the following files...
 
 - **The Business** - Outlines the company’s purpose, mission, vision, target market, products, and strategic goals. Establishes the "why" behind Freely and articulates what makes Freely Homeschool Planner unique in the market. 
-- **Customer Personas** - Provides detailed, emotional, and behavioral insights into core customer personas. This is explained in more detail in [this post](#)
+- **Customer Personas** - Provides detailed, emotional, and behavioral insights into core customer personas. This is explained in more detail in [this post]({% post_url 2025-04-25-my-ai-user-group %})
 - **Marketing Plan** - Outlines the target audience, emotional drivers, pain points, and messaging strategy for Freely, with detailed plans for content distribution across platforms. It also addresses common objections and risks in the sales funnel.
 - **Content Guidelines** - A comprehensive guide for creating content using the brand's voice. Includes a repeatable storytelling framework, tone guidelines, channel-specific adaptations, and strategies to nurture audience connection and drive engagement.
 - **Product Features** - Outlines the capabilities and benefits of Freely Homeschool Planner in detail.
@@ -43,11 +44,13 @@ I always use a [Prompt Engineering GPT](https://chatgpt.com/g/g-5XtVuRE8Y-prompt
 
 `I need a prompt to create a custom GPT that is an expert in email marketing to assist with my business. I will provide it details of my business, marketing plan and customer avatars as knowledge files. I want this email marketing expert to be well versed in setting up complex email sequences that blends emails based on the customers sign up date and time sensitive emails (e.g. based on the current time of year) that provide value to both leads and existing customers. They need to have expertise in emotive copywriting that builds trust, educates the user about their problems, provides value for free and demonstrates authority. They also need to know how to write copy focused on conversion by addressing risks and objections and positioning the business as a strong and worthy solution to the customers pain points`
 
-Then I simply checked the output (which was fantastic), copied and pasted it into the instructions for the new custom GPT, and uploaded the knowledge files.
+Then I simply checked the output (which was clear, well-structured, and on point), copied and pasted it into the instructions for the new custom GPT, and uploaded the knowledge files.
 
 ## Using the Custom GPT
 
 Once I created a GPT that truly understood my business—our tone of voice, audience mindset, product strengths, and goals—it became a genuine creative partner. Over several sessions, it helped me not just write emails, but design a complete lead nurture experience that felt cohesive, human, and true to our mission.
+
+> This was the first time I felt like I wasn't just talking to AI, we were collaborating, together
 
 ### Mapping the journey
 
@@ -93,3 +96,5 @@ By the end of the process, I had a fully polished, emotionally grounded lead nur
 - Used CTAs that felt like invitations, not pressure
 
 This was the first Custom GPT "team member", but it certainly wasn't the last. I've gone on to build over a dozen more to help with various challenges across other areas of marketing, advertising, UX and strategy.
+
+*If you’ve got questions, ideas, or just want to compare notes, I’d love to hear from you! Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/aidanboyd/) or via [email](mailto:aidanjboyd@gmail.com).*

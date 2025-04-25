@@ -2,6 +2,7 @@
 layout: post
 title: How I talk to AI
 subtitle: Without the perfect prompt
+description: A practical framework I use to get better results from ChatGPT—by thinking about the conversation before I prompt
 date: 2025-04-25
 ---
 Since ChatGPT launched in November 2022, I've been equally curious, intrigued and skeptical about what can be achieved in this magical chat window. I started by poking it with a metaphorical stick, trying to work out if it was alive or dead, friendly or hostile. Through lots of learning and experimentation I've now created a place for AI in my day to day. It's my 24/7 personal assistant for life.
@@ -9,6 +10,11 @@ Since ChatGPT launched in November 2022, I've been equally curious, intrigued an
 There’s so much I want to share about what I’ve learned, but I figured the best place to start is with *how I talk to AI*. Or more precisely: how I **think about** talking to AI *before* I even open the chat window.
 
 Here's the process I use to get in the right headspace and set myself up for the best chance of having a great conversation.
+
+> Before I prompt, I ask myself:
+> 1. What role do I need it to play?
+> 1. What context does it need?
+> 1. What kind of conversation do I want?
 
 ## How I actually talk to AI
 
@@ -20,9 +26,9 @@ But I’ve found that trying to craft the perfect prompt can become a barrier of
 
 I don’t mean a detailed persona (though that might come later). I’m talking about the type of interaction I need right now. Am I looking for:
 
-- A task helper – to answer a question, review code, or tidy up some text
-- A thought partner – to explore ideas I haven’t fully formed yet
-- An expert – to advise me in an area I don’t know much about
+- A **task helper** – to answer a question, review code, or tidy up some text
+- A **thought partner** – to explore ideas I haven’t fully formed yet
+- An **expert** – to advise me in an area I don’t know much about
 
 Just having a mental label for the role I need sets the tone and helps me frame my opening message.
 
@@ -40,14 +46,14 @@ Once I've started the conversation, if the response feels off, it’s usually be
 
 Fortunately, I can usually just layer in context as I go to improve the outcome. But even if things have drifted too far off track, I've usually gained enough insight to write a much better starting prompt. So I just open a new window and start again.
 
-### What kind of conversation do I want to have?
+### What kind of conversation do I want?
 
 This one’s trickier to pin down, because it’s more about feel than mechanics. But, before I start typing, I try to imagine the kind of conversation I want to have:
-- Do I want empathy or challenge?
-- Am I looking for fast answers or careful thinking?
-- Should it push back, or just help me clarify?
+- Do I want **empathy** or **challenge**?
+- Am I looking for **fast answers** or **careful thinking**?
+- Should it **push back**, or just help me **clarify**?
 
-This helps me provide better instructions in that inital prompt, or get the conversation back on track if it starts to drift. For example, if it’s being too agreeable, I’ll ask it to be more critical. If it’s giving me information I can’t make sense of, I’ll clarify what kind of outcome I’m looking for.
+This helps me provide better instructions in that initial prompt, or get the conversation back on track if it starts to drift. For example, if it’s being too agreeable, I’ll ask it to be more critical. If it’s giving me information I can’t make sense of, I’ll clarify what kind of outcome I’m looking for.
 
 ### Bonus Tip: Pacing
 
@@ -88,11 +94,11 @@ The result was a VERY in depth summary. I won't share the entire thing, just the
     - Define a clear, engaging, and authentic angle that aligns with my goals and resonates with my target audience.
     ...
 
-At the time, I didn't have specific posts in mind, just some vague ideas I needed to better articulate. So, just before I left work on my commute home, I pasted the above with the addition of the following line...
+At the time, I didn't have specific posts in mind, just some vague ideas I needed to better articulate. So, just before leaving work for my commute home, I pasted the above with the addition of the following line...
 
 `Please dont respond, just wait for me to switch to voice mode so we can have a conversation about this`
 
-Then, I proceeded to regurgitate all of my random thoughts verbally until some clear ideas started to form.
+Then, I proceeded to dump all of my random thoughts verbally until some clear ideas started to form.
 
 ### Using pacing to step through something complex
 
@@ -108,4 +114,6 @@ It gave me an extremely detailed marketing plan with a lot of assumptions built 
 
 Obviously, better prompting = better results. But, for general usage, I can usually get a good outcome through conversation, rather than dwelling on prompting perfection. 
 
-However, once I establish an ongoing need for a certain type of interaction with AI, that's when it's worth putting the effort into crafting a great prompt. That way, I can copy and paste or set up a [Custom GPT](#), to get straight into a specific type of interaction quickly.
+However, once I establish an ongoing need for a certain type of interaction with AI, that's when it's worth putting the effort into crafting a great prompt. That way, I can copy and paste or set up a [Custom GPT]({% post_url 2025-04-25-my-ai-teammates %}), to get straight into a specific type of interaction quickly.
+
+*If you’ve got questions, ideas, or just want to compare notes, I’d love to hear from you! Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/aidanboyd/) or via [email](mailto:aidanjboyd@gmail.com).*
