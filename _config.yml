@@ -20,5 +20,4 @@ plugins:
 navbar-links:
   Blog: "/"
   About: "about"
-google_analytics: G-TXC9MBBSJS
 permalink: /:title/
