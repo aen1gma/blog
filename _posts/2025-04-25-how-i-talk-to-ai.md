@@ -4,6 +4,7 @@ title: How I talk to AI
 subtitle: Without the perfect prompt
 description: A practical framework I use to get better results from ChatGPT—by thinking about the conversation before I prompt
 date: 2025-04-25
+image: /assets/images/thumbnail_how-i-talk-to-ai.png
 ---
 Since ChatGPT launched in November 2022, I've been equally curious, intrigued and skeptical about what can be achieved in this magical chat window. I started by poking it with a metaphorical stick, trying to work out if it was alive or dead, friendly or hostile. Through lots of learning and experimentation I've now created a place for AI in my day to day. It's my 24/7 personal assistant for life.
 
@@ -102,7 +103,7 @@ Then, I proceeded to dump all of my random thoughts verbally until some clear id
 
 ### Using pacing to step through something complex
 
-As part of a marketing campaign for my business, [Freely](https://www.learnfreely.app/), my wife was in the process of creating a freebie and I wanted to start thinking about how we approach the marketing. I started with this...
+As part of a marketing campaign for my business, [Freely](https://www.learnfreely.app/), my wife (and Freely co-founder) was in the process of creating a freebie and I wanted to start thinking about how we approach the marketing. I started with this...
 
 `We are currently developing a print at home card game... What are your thoughts on how to market this freebie ie audience, creative, retargeting etc`
 

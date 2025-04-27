@@ -1,10 +1,10 @@
 ---
 layout: post
-title: My AI user group GPT
+title: My AI customer avatars
 subtitle: Instant customer insights 24/7
 date: 2025-04-25
 description: How I turned customer personas into a Custom GPT that simulates real user feedback—my favourite AI use case so far
-image: /assets/images/social-share_my-ai-user-group.png
+image: /assets/images/thumbnail_ai-customer-avatars.png
 ---
 Around the same time that I started [experimenting with Custom GPTs]({% post_url 2025-04-25-my-ai-teammates %}) I was also reading the book [The 1-Page Marketing Plan](https://leanmarketing.com/books/1pmp). Following the book's guidance, I had just finished creating a very detailed description of "My Target Market" and saw an opportunity to turn it into a **Custom GPT** that I could actually talk to. 
 

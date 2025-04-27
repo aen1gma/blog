@@ -4,6 +4,7 @@ title: My AI teammates
 subtitle: GPTs that genuinely understand my business
 date: 2025-04-25
 description: How I created a Custom GPT that understands my business and helped me write a complete lead nurture sequence—without marketing experience
+image: /assets/images/thumbnail_ai-teammates.png
 ---
 When I first started to grasp what LLMs could actually do, I wondered what would be possible if I could customise the GPT to understand a specific context (e.g. my business). At the time, this was only possible with complex custom setups. But that changed when Open AI released the ability to create **Custom GPTs** in ChatGPT. Once this capability unlocked, I already knew the use case I wanted to try first. And the results were a genuine **game-changer**.
 
@@ -17,7 +18,7 @@ I'm completely clueless when it comes to sales and marketing. If someone tested 
 >
 > Me: Ok, fine
 
-My business, [Freely](https://www.learnfreely.app/), needed an email lead nurture sequence. Between my wife and I, we knew the key points we wanted to convey and how we wanted customers to feel when they read the emails. But bringing this to life as a sequence of emails, each with a catchy title, value proposition and call to action... wow, what a challenge. 
+My business, [Freely](https://www.learnfreely.app/), needed an email lead nurture sequence. Between my wife and I (both co-founders of Freely), we knew the key points we wanted to convey and how we wanted customers to feel when they read the emails. But bringing this to life as a sequence of emails, each with a catchy title, value proposition and call to action... wow, what a challenge. 
 
 Without the Custom GPT that I built specifically to help us with this challenge, it would have taken months to personally upskill enough to produce the result that we achieved.
 
