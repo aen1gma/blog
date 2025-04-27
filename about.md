@@ -3,9 +3,9 @@ layout: page
 title: About
 ---
 <div style="text-align: center;">
-    <a href="{{ '/assets/images/aidan_boyd.jpg' | relative_url }}">
+    <a href="{{ '/assets/images/aidan_boyd.png' | relative_url }}">
         <img 
-            src="{{ '/assets/images/aidan_boyd.jpg' | relative_url }}"
+            src="{{ '/assets/images/aidan_boyd.png' | relative_url }}"
             alt="Aidan Boyd, blog author" 
             width="100" 
             style="border-radius: 50%;"
