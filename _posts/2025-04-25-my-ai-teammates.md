@@ -4,7 +4,7 @@ title: My AI teammates
 subtitle: GPTs that genuinely understand my business
 date: 2025-04-25
 description: How I created a Custom GPT that understands my business and helped me write a complete lead nurture sequence—without marketing experience
-image: /assets/images/thumbnail_ai-teammates.png
+share-img: /assets/images/thumbnail_ai-teammates.png
 ---
 When I first started to grasp what LLMs could actually do, I wondered what would be possible if I could customise the GPT to understand a specific context (e.g. my business). At the time, this was only possible with complex custom setups. But that changed when Open AI released the ability to create **Custom GPTs** in ChatGPT. Once this capability unlocked, I already knew the use case I wanted to try first. And the results were a genuine **game-changer**.
 
