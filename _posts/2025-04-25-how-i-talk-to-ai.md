@@ -19,7 +19,7 @@ Here's the process I use to get in the right headspace and set myself up for the
 
 ## How I actually talk to AI
 
-There’s an ever-growing pool of advice out there about prompting—and I’m always learning from it. For example, frameworks like [RACE](https://www.acronymat.com/2024/12/22/) are well worth exploring, and OpenAI and Google have both recently released guides on prompting. 
+There’s an ever-growing pool of advice out there about prompting—and I’m always learning from it. For example, frameworks like [RACE](https://www.acronymat.com/2024/12/22/race-prompt-framework/) are well worth exploring, and OpenAI and Google have both recently released guides on prompting. 
 
 But I’ve found that trying to craft the perfect prompt can become a barrier of its own. What’s worked better for me is running through a few simple questions that help me frame the interaction before I start typing.
 
