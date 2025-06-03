@@ -5,6 +5,7 @@ subtitle: Without the perfect prompt
 description: A practical framework I use to get better results from ChatGPT—by thinking about the conversation before I prompt
 date: 2025-04-25
 share-img: /assets/images/thumbnail_how-i-talk-to-ai.png
+tags: [custom-gpts, working-with-ai, prompting]
 ---
 Since ChatGPT launched in November 2022, I've been equally curious, intrigued and skeptical about what can be achieved in this magical chat window. I started by poking it with a metaphorical stick, trying to work out if it was alive or dead, friendly or hostile. Through lots of learning and experimentation I've now created a place for AI in my day to day. It's my 24/7 personal assistant for life.
 

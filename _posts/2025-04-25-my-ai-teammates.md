@@ -5,6 +5,8 @@ subtitle: GPTs that genuinely understand my business
 date: 2025-04-25
 description: How I created a Custom GPT that understands my business and helped me write a complete lead nurture sequence—without marketing experience
 share-img: /assets/images/thumbnail_ai-teammates.png
+tags: [custom-gpts, working-with-ai, knowledge-files]
+last-updated: 2025-06-03
 ---
 When I first started to grasp what LLMs could actually do, I wondered what would be possible if I could customise the GPT to understand a specific context (e.g. my business). At the time, this was only possible with complex custom setups. But that changed when Open AI released the ability to create **Custom GPTs** in ChatGPT. Once this capability unlocked, I already knew the use case I wanted to try first. And the results were a genuine **game-changer**.
 
@@ -97,5 +99,7 @@ By the end of the process, I had a fully polished, emotionally grounded lead nur
 - Used CTAs that felt like invitations, not pressure
 
 This was the first Custom GPT "team member", but it certainly wasn't the last. I've gone on to build over a dozen more to help with various challenges across other areas of marketing, advertising, UX and strategy.
+
+**Update (3 June 2025):** Since writing this, I’ve updated how I structure and tag knowledge files to make knowledge retrieval even more consistent and reliable. [Here’s how I made my GPTs even smarter.]({% post_url 2025-06-03-smarter-custom-gpts %})
 
 *If you’ve got questions, ideas, or just want to compare notes, I’d love to hear from you! Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/aidanboyd/) or via [email](mailto:aidanjboyd@gmail.com).*
