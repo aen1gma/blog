@@ -50,7 +50,7 @@ The result was an experience that genuinely felt like I was talking to customers
 
 ![A screenshot of my ChatGPT user group simulation]({{ '/assets/images/my-ai-user-group_chat-screenshot.png' | relative_url }})
 
-And, out of all of [My AI Teammates]({% post_url 2025-04-25-my-ai-teammates %}) this one is by far my wife's favourite. She uses it almost daily. For her, the top 3 things about it are...
+And, out of all of [My AI Teammates]({% post_url 2025-04-25-my-ai-teammates %}) this one is by far my wife's (and Freely co-founder) favourite. She uses it almost daily. For her, the top 3 things about it are...
 
 - It provides highly opinionated feedback on marketing material, which helps to create a message that resonates with a broader audience
 - It helps to validate (or invalidate) ideas for freebies or product features
