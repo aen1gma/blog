@@ -3,7 +3,7 @@ layout: post
 title: Smarter Custom GPT's
 subtitle: Levelling up my knowledge files
 date: 2025-06-03
-description: ???
+description: How I improved my Custom GPT performance with structured knowledge files and an inline tagging system for better context retrieval
 share-img: /assets/images/thumbnail_smarter-custom-gpts.png
 tags: [custom-gpts, working-with-ai, knowledge-files, context-retrieval, prompting]
 ---

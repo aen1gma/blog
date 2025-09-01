@@ -1,57 +1,55 @@
-<header>
+# Cloning the Goose Blog
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+A personal blog about supercharging productivity with AI tools and workflows, hosted at [cloningthegoose.com](https://cloningthegoose.com).
 
-# GitHub Pages
+## About
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+This Jekyll-based blog explores AI-powered productivity techniques, tools, and workflows. The name "Cloning the Goose" is a playful take on Stephen Covey's production/production capability balance from *The 7 Habits of Highly Effective People* - but with AI helping us scale our best thinking without burning out.
 
-</header>
+## Quick Start
 
-<!--
-  <<< Author notes: Finish >>>
-  Review what we learned, ask for feedback, provide next steps.
--->
+1. **Navigate to the blog directory**:
+   ```bash
+   cd blog
+   ```
 
-## Finish
+2. **Install dependencies**:
+   ```bash
+   bundle install
+   ```
 
-_Congratulations friend, you've completed this course!_
+3. **Start development server**:
+   ```bash
+   bundle exec jekyll serve
+   ```
+   
+4. **Open your browser** to http://localhost:4000
 
-<img src=https://octodex.github.com/images/constructocat2.jpg alt=celebrate width=300 align=right>
+## Writing Posts
 
-Your blog is now live and has been deployed!
+Create new posts in the `_posts/` directory following this format:
+- Filename: `YYYY-MM-DD-your-post-title.md`
+- Include front matter with title, layout, and any other metadata
 
-Here's a recap of all the tasks you've accomplished in your repository:
-
-- You enabled GitHub Pages.
-- You selected a theme using the config file.
-- You learned about proper directory format and file naming conventions in Jekyll.
-- You created your first blog post with Jekyll!
-
-### What's next?
-
-- Keep working on your GitHub Pages site... we love seeing what you come up with!
-- We'd love to hear what you thought of this course [in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages).
-- [Take another GitHub Skills course](https://github.com/skills).
-- [Read the GitHub Getting Started docs](https://docs.github.com/en/get-started).
-- To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
-
-<footer>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
-
+Example:
+```markdown
+---
+layout: post
+title: "Your Post Title"
+date: 2025-08-31
 ---
 
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
+Your content here...
+```
 
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+## Deployment
 
-</footer>
+The site automatically deploys to GitHub Pages when changes are pushed to the main branch.
+
+## Theme
+
+Uses [Beautiful Jekyll](https://github.com/daattali/beautiful-jekyll) theme v6.0.1 via Jekyll remote themes.
+
+## Author
+
+Created and maintained by [Aidan Boyd](https://www.linkedin.com/in/aidanboyd/).
