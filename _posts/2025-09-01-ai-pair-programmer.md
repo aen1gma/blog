@@ -4,7 +4,7 @@ title: My AI Pair Programmer
 subtitle: Taming Claude Code’s overconfidence
 date: 2025-09-01
 description: My experience learning to work effectively with Claude Code as an AI pair programmer and managing its enthusiastic tendencies
-share-img: /assets/images/thumbnail_smarter-custom-gpts.png
+share-img: /assets/images/thumbnail_ai_pair_programmer.png
 tags: [working-with-ai, prompting, ai-coding]
 ---
 As a 20-year QA veteran (aka “professional pessimist”) I’m slightly embarrassed to admit it, but at the beginning, I was completely charmed by Claude Code. It took longer than I’d like to admit to start seeing through its constant ego-boosting vocabulary. I mean… who doesn’t relish in the words *“You’re absolutely right!”* I’m only human.
