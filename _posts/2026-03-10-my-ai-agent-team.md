@@ -5,6 +5,7 @@ subtitle: Rebuilding a website with AI agents
 date: 2026-03-10
 description: How I used a PM agent and specialist agents coordinated through repository files to rebuild a website with minimal hands-on work
 tags: [working-with-ai, ai-coding, agentic-workflows]
+share-img: /assets/images/thumbnail_ai-agent-team.png
 ---
 First it was all about prompting, then suddenly "agentic" entered our vocabulary, and now everyone's talking about agent teams. This pace of change is dizzying. By the time I finish a cool AI project, there's no point writing about it because there's already a better way. Hopefully this one stays relevant for at least a week.
 
