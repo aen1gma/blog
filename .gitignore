@@ -40,6 +40,9 @@ Thumbs.db
 ######################
 _site/
 .sass-cache/
+.jekyll-cache/
+.bundle/
+vendor/bundle/
 *.gem
 
 # Claude Code settings #
